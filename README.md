@@ -5,4 +5,4 @@ Um site de notícias feito com GRID CSS. Totalmente responsivo.
 
 ## Veja no link:
 
-[Link](newsgrid2.netlify.app)
+[Link](https://newsgrid2.netlify.app)
